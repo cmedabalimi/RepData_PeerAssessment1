@@ -59,6 +59,7 @@ ggplot(ActivityDataByDate, aes(x = date, y = steps)) +
 ```
 
 ![](PA1_template_files/figure-html/unnamed-chunk-4-1.png) 
+  
   Finally, we can calculate and report the mean and median of the total number of steps taken per day
 
   The mean of the total number of steps taken each day, or the y-value of the dotted line on the graph
